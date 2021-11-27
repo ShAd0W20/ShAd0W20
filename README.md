@@ -1,5 +1,5 @@
 <p align='center'>
-<a href="https://twitter.com/shad0wstv"><img height="64" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png"></a>&nbsp;&nbsp; 
+<a href="https://twitter.com/shad0wstv" target="_blank"><img height="64" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png"></a>&nbsp;&nbsp; 
 </p>  
 
 ### Hello there! 👋
