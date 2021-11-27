@@ -7,7 +7,7 @@
 Hi! My name is shadw0stv, junior developer.
 
 - 🔭 I’m currently working on <a href="http://ellaboratori.cat" target="_blank"> ellaboratori.cat </a>
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java, VueJS
 - 💬 Ask me about HTML, CSS, JS, SQL, PHP, AJAX...
 
 ## Used
