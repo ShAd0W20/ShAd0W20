@@ -4,7 +4,7 @@
 
 ### Hello there! 👋
 
-My name is shadw0stv, junior developer.
+My name is shad0wstv, junior developer.
 
 - 🔭 I’m currently working on <a href="http://ellaboratori.cat" target="_blank"> ellaboratori.cat </a>
 - 🌱 I’m currently learning Java, VueJS
