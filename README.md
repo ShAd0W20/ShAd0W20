@@ -7,7 +7,7 @@
 My name is shad0wstv, junior developer.
 
 - 🔭 I’m currently working on <a href="https://ellaboratori.shad0wstv.net" target="_blank"> ellaboratori </a>
-- 🌱 I’m currently learning Java, VueJS
+- 🌱 I’m currently learning Java, VueJS, Laravel...
 - 💬 Ask me about HTML, CSS, JS, SQL, PHP, AJAX...
 
 ## Used
@@ -22,6 +22,7 @@ My name is shad0wstv, junior developer.
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/java.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/php.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/vue.svg" />
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/laravel.svg" />
    </p>  
    
 ## Tools
