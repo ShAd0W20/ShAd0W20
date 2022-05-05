@@ -6,7 +6,7 @@
 
 My name is shad0wstv, junior developer.
 
-- 🔭 I’m currently working on <a href="https://ellaboratori.shad0wstv.net" target="_blank"> ellaboratori </a>
+- 🔭 I’m currently working on <a href="https://ellaboratori.shad0wstv.net" target="_blank"> learning </a>
 - 🌱 I’m currently learning Java, VueJS, Laravel...
 - 💬 Ask me about HTML, CSS, JS, SQL, PHP, AJAX...
 
