@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-My name is shad0wstv, junior developer.
+My name is shad0wstv.
 
 - 🔭 I’m currently working on learning
 - 🌱 I’m currently learning Angular, Spring Boot 3...
