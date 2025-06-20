@@ -1,42 +1,32 @@
-### Hello there! 👋
+# Hi there, I'm ShAd0W20 👋
 
-My name is shad0wstv.
+## 🚀 Lead Software Engineer
 
-- 🔭 I’m currently working on learning
-- 🌱 I’m currently learning Angular, Spring Boot 3...
-- 💬 Ask me about JS, SQL, PHP, Vue3, Java, Node...
+Welcome to my GitHub profile! I'm a passionate Lead Software Engineer who thrives on building robust, scalable web applications and leading high-performing teams to success. My expertise bridges both frontend and backend, enabling me to architect and deliver end-to-end solutions with a focus on performance, usability, and code quality.
 
-## Used
+---
 
-   <p align="center">
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" />
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" />
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/bootstrap.svg" />
-      <img src="https://imgur.com/m60pW8g.png" height="33" />
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg" />
-      <img src="https://github.com/YisusOnDev/YisusOnDev/blob/main/typescript.svg" />
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/java.svg" />
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/php.svg" />
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/vue.svg" />
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/nodejs_larger.svg" />
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/angular.svg" />
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/swift.svg" />
-   </p>
-   
-## Tools
+### 🛠️ Tech Stack
 
-   <p align="center">
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" />
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/jetbrains_intellij.svg" />
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/android_studio_colour.svg" />
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/vmware.svg" />
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/dockerhub.svg" />
-   </p>
-   
-## Services used
+- **Frontend:** Angular, Vue, TailwindCSS, TypeScript
+- **Backend:** Spring Boot 3, Java, GoLang
+- **Other:** Project & Team Management, Agile Methodologies, CI/CD
 
-   <p align="center">
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/aws.svg" />
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/docker.svg" />
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/npm.svg" />
-   </p>
+---
+
+### 🌟 What I Do
+
+- Architect and develop scalable web applications
+- Manage and mentor engineering teams
+- Bridge the gap between business goals and technical execution
+- Lead projects from concept to deployment
+
+---
+
+### 🎬 Outside Tech
+
+When I'm not coding or strategizing with my team, you'll find me exploring the latest in cinema or traveling to new destinations for inspiration and adventure. I believe great code is like a great film: crafted with vision, creativity, and attention to every detail.
+
+---
+
+> “Code is like a journey—both are better when shared.”
